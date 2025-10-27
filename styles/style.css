@@ -65,10 +65,10 @@ a:hover {
     color: #333;
 }
 
-.left-column .social {
+.left-column .social_cover {
     margin-top: 20px;
 }
-.left-column .social a {
+.left-column .social_cover {
     font-size: 0.9rem;
     font-weight: bold;
 }
